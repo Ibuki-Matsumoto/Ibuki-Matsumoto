@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-I'm student from Japan!
-
-[My Twitter](https://twitter.com/ibuki_m_01)
+Studing 
+- React.js
+- Next.js
+- Laravel
