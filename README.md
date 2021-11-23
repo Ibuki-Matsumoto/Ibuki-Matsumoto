@@ -4,3 +4,4 @@ Studing
 - React.js
 - Next.js
 - Laravel
+- Python
