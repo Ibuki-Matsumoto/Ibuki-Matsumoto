@@ -9,4 +9,3 @@ Studing
 
 ## About Repositories
 `sample-${hogehoge}` - Created while learning
-　`${hogehoge}` - My Product
