@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Studing 
+Studying 
 - React.js
 - Next.js
 - Laravel
