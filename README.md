@@ -3,8 +3,7 @@
 Studying 
 - React.js
 - Next.js
-- Laravel
-- Python
+- AWS
 
 
 ## About Repositories
