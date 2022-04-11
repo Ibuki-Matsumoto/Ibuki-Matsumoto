@@ -1,10 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-Studying 
+個人的に色々と作成しては放置しているアカウントです。
+
+## skills
+
 - React.js
 - Next.js
-- AWS
-
-
-## About Repositories
-`sample-${hogehoge}` - Created while learning
+- PHP
+- Laravel
+- Python
