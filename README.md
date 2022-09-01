@@ -14,3 +14,6 @@
 - PHP
 - Laravel
 - Python
+- AWS
+- Terraform
+- Ansible
