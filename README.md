@@ -17,3 +17,7 @@
 - AWS
 - Terraform
 - Ansible
+
+## studying
+
+- Rust
