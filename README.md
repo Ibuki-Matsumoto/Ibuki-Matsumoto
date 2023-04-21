@@ -5,8 +5,6 @@
 
 ## memo
 
-https://moored-starflower-adb.notion.site/04-21-0255e6147a9f4ada9dc05ef957e3cdf6
-
 ## stats
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=n4rvs3&theme=tokyonight&show_icons=true)
 
