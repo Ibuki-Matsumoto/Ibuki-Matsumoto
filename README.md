@@ -6,10 +6,10 @@
 ## memo
 
 ## stats
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=n4rvs3&theme=tokyonight&show_icons=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=n4rvs3)
-
+<p align="left">
+  <img alt="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4rvs3&layout=compact&theme=radical" />
+  <img alt="" height="180px" src="https://github-readme-stats.vercel.app/api?username=n4rvs3&show_icons=true&theme=radical" />
+</p>
 ## skills
 
 - React.js
