@@ -7,7 +7,6 @@ We do not guarantee that the produced source code and repositories will work pro
 ## stats ⭐️
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4rvs3&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=n4rvs3&theme=onedark&show_icons=ture" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=n4rvs3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
